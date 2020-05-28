@@ -1,0 +1,21 @@
+body {
+  background-color: #3c3c3c;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+a:link, a:visited {
+  color: #e6e6e6;
+}
+
+a:hover, a:active {
+  color: #bfbfbf;
+}
+
+header {
+  font-size: large;
+}
+
+footer {
+  font-size: small;
+}
